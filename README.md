@@ -19,5 +19,5 @@ Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
 
 
-![Class Diagram Image](/home/oguz/Downloads/oop-diagram.drawio (1).png)
+![Class Diagram Image](https://github.com/oelkapmis/OOP-class-diagram/blob/main/diagram.png)
 
